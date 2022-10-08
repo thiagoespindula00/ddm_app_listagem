@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppListagemFrutas</string>
+    <string name="codigo">Código</string>
+    <string name="descricao">Descrição</string>
+    <string name="preco">Preço</string>
+    <string name="preco_venda">Preço venda</string>
+    <string name="nome">Nome</string>
+</resources>

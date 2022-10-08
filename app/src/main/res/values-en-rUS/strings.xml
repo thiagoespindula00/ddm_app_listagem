@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AppFruitList</string>
+    <string name="codigo">Code</string>
+    <string name="descricao">Description</string>
+    <string name="preco">Price</string>
+    <string name="preco_venda">Sale price</string>
+    <string name="nome">Name</string>
+</resources>
